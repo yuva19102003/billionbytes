@@ -1,0 +1,11 @@
+The following examples are in JSON format, but configurations can be in other file formats.
+
+Install in your app directory, and edit the default config file.
+
+$ npm install config
+$ mkdir config
+$ vi config/default.json
+
+
+
+https://www.npmjs.com/package/config
